@@ -4,7 +4,7 @@ Usually people call me neox.
 
 I'm only using this account to participate in project that only use Github to receive contributions.
 
-I encourage you to leave Github for ethical alternatives instead. A good example is [Codeberg](https://codeberg.prg), which promotes a fully free and decentralized
+I encourage you to leave Github for ethical alternatives instead. A good example is [Codeberg](https://codeberg.org), which promotes a fully free and decentralized
 service based on the Forgejo project. You can also use a self-hosted Forgejo instance.
 
 GitHub is quite often viewed as problematic in the libre software movement for several reasons:
