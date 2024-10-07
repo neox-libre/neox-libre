@@ -14,8 +14,8 @@ GitHub is quite often viewed as problematic in the libre software movement for s
 - GitHub is a centralized service, meaning that it represents a single point of control and failure. Centralization is a risk in the free software world, where decentralization is preferred to
   prevent vendor lock-in, data monopolies, and single-point censorship.
 
-- Since GitHub was acquired by Microsoft in 2018, some in the free software community have raised concerns due to Microsoft's historical opposition to open source in the past, despite its more
-  recent embrace of open source practices.
+- Since GitHub was acquired by Microsoft in 2018, some in the free software community have raised concerns due to Microsoft's historical opposition to free software in the past, despite its more
+  recent embrace of "open source" practices.
 
 - GitHub has been criticized for collecting and tracking user data, which can be seen as a violation of privacy and autonomy, central values in the free software movement.
 
