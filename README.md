@@ -7,7 +7,7 @@ service based on the Forgejo project, or [GNU Savannah](https://savannah.gnu.org
 
 GitHub is quite often viewed as problematic in the libre software movement for several reasons:
 
-- GitHub itself is not free software[1]. Its core infrastructure, backend, and many of its features are proprietary, meaning users do not have full control over the platform or access to modify it
+- GitHub itself is not free software and forces users to run non free software to accomplish basic tasks[1]. Its core infrastructure, backend, and many of its features are proprietary, meaning users do not have full control over the platform or access to modify it
 
 - GitHub is a centralized service[2], meaning that it represents a single point of control and failure. Centralization is a risk in the free software world, where decentralization is preferred to
   prevent vendor lock-in, data monopolies, and single-point censorship.
