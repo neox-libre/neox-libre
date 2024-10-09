@@ -1,6 +1,4 @@
-Hi, I’m @neox-libre !
-
-Usually people call me neox.
+Hi, I’m @neox-libre. Usually people call me neox.
 
 I'm only using this account to participate in project that only use Github to receive contributions.
 
